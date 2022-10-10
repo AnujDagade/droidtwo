@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 7.2.0" type="incidents">
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Select Size:&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="25"
+            column="13"
+            startOffset="1028"
+            endLine="25"
+            endColumn="40"
+            endOffset="1055"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Process&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="45"
+            column="13"
+            startOffset="1869"
+            endLine="45"
+            endColumn="35"
+            endOffset="1891"/>
+    </incident>
+
+    <incident
+        id="HardcodedText"
+        severity="warning"
+        message="Hardcoded string &quot;Output Will Appear Here...&quot;, should use `@string` resource">
+        <location
+            file="${:app*debug*sourceProvider*0*resDir*0}/layout/activity_main.xml"
+            line="64"
+            column="13"
+            startOffset="2538"
+            endLine="64"
+            endColumn="54"
+            endOffset="2579"/>
+    </incident>
+
+    <incident
+        id="SetTextI18n"
+        severity="warning"
+        message="Do not concatenate text displayed with `setText`. Use resource string with placeholders.">
+        <location
+            file="${:app*debug*sourceProvider*0*javaDir*0}/mooc/vandy/java4android/diamonds/ui/MainActivity.java"
+            line="97"
+            column="25"
+            startOffset="2567"
+            endLine="97"
+            endColumn="56"
+            endOffset="2598"/>
+    </incident>
+
+</incidents>

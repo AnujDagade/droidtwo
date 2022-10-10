@@ -1,0 +1,7 @@
+mooc.vandy.java4android.diamonds.test.app-androidTest-0 /workspace/droidtwo/app/build/generated/res/resValues/androidTest/debug
+mooc.vandy.java4android.diamonds.test.app-androidTest-1 /workspace/droidtwo/app/build/generated/res/rs/androidTest/debug
+mooc.vandy.java4android.diamonds.test.app-mergeDebugAndroidTestResources-2 /workspace/droidtwo/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+mooc.vandy.java4android.diamonds.test.app-mergeDebugAndroidTestResources-3 /workspace/droidtwo/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+mooc.vandy.java4android.diamonds.test.app-merged_res-4 /workspace/droidtwo/app/build/intermediates/merged_res/debugAndroidTest
+mooc.vandy.java4android.diamonds.test.app-androidTest-5 /workspace/droidtwo/app/src/androidTest/res
+mooc.vandy.java4android.diamonds.test.app-androidTestDebug-6 /workspace/droidtwo/app/src/androidTestDebug/res
