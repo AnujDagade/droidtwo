@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="mooc.vandy.java4android.diamonds.logic.AutoGraderPreview" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-09T14:35:12" hostname="anujdagade-droidtwo-jwtdpnnq2y0" time="0.106">
+<testsuite name="mooc.vandy.java4android.diamonds.logic.AutoGraderPreview" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-10T16:40:41" hostname="anujdagade-droidtwo-jwtdpnnq2y0" time="0.255">
   <properties/>
-  <testcase name="graderPreview" classname="mooc.vandy.java4android.diamonds.logic.AutoGraderPreview" time="0.106"/>
+  <testcase name="graderPreview" classname="mooc.vandy.java4android.diamonds.logic.AutoGraderPreview" time="0.255"/>
   <system-out><![CDATA[
 
 Your assignment HAS NOT BEEN SUBMITTED. The following test results only
@@ -18,15 +18,31 @@ Coursera.
 --------Your solution received points for the following grading rubrics:--------
 
 
+randomTest
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test that your Diamonds are independent
+Reference: This Test fails when: your code is dependent on the order in which
+the tests are run
+
+testDiamond2
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 2
+Reference: This Test fails when: The Diamond size 2 is wrong
+
 testDiamond5
 Rubric Score: 10.0/10.0
 Goal: The goal of this evaluation is to test Diamond 5
 Reference: This Test fails when: The Diamond size 5 is wrong
 
-testDiamond3
+testDiamond4
 Rubric Score: 10.0/10.0
-Goal: The goal of this evaluation is to test Diamond 3
-Reference: This Test fails when: The Diamond size 3 is wrong
+Goal: The goal of this evaluation is to test Diamond 4
+Reference: This Test fails when: The Diamond size 4 is wrong
+
+testDiamond1
+Rubric Score: 10.0/10.0
+Goal: The goal of this evaluation is to test Diamond 1
+Reference: This Test fails when: The Diamond size 1 is wrong
 
 testDiamond6
 Rubric Score: 10.0/10.0
@@ -43,26 +59,10 @@ Rubric Score: 10.0/10.0
 Goal: The goal of this evaluation is to test Diamond 8
 Reference: This Test fails when: The Diamond size 8 is wrong
 
-randomTest
+testDiamond3
 Rubric Score: 10.0/10.0
-Goal: The goal of this evaluation is to test that your Diamonds are independent
-Reference: This Test fails when: your code is dependent on the order in which
-the tests are run
-
-testDiamond1
-Rubric Score: 10.0/10.0
-Goal: The goal of this evaluation is to test Diamond 1
-Reference: This Test fails when: The Diamond size 1 is wrong
-
-testDiamond2
-Rubric Score: 10.0/10.0
-Goal: The goal of this evaluation is to test Diamond 2
-Reference: This Test fails when: The Diamond size 2 is wrong
-
-testDiamond4
-Rubric Score: 10.0/10.0
-Goal: The goal of this evaluation is to test Diamond 4
-Reference: This Test fails when: The Diamond size 4 is wrong
+Goal: The goal of this evaluation is to test Diamond 3
+Reference: This Test fails when: The Diamond size 3 is wrong
 
 
 ]]></system-out>
